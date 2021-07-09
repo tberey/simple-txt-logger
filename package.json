@@ -1,0 +1,39 @@
+{
+  "name": "simple-txt-logger",
+  "version": "1.0.0",
+  "description": "simple-txt-logger",
+  "homepage": "#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tberey/simple-txt-logger"
+  },
+  "main": "build/SimpleTxtLogger.js",
+  "types": "build/SimpleTxtLogger.d.ts",
+  "scripts": {
+    "setup": "npm update && npm install",
+    "build": "tsc",
+    "start": "node build/SimpleTxtLogger.js",
+    "test:exit": "mocha --exit -r ts-node/register src/tests/*.ts",
+    "test": "env TS_NODE_COMPILER_OPTIONS='{\"module\": \"commonjs\" }' mocha -r ts-node/register 'src/tests/*.ts'",
+    "lint": "eslint . --ext .ts"
+  },
+  "keywords": [],
+  "author": "Tom Berey (github/tberey)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/chai": "latest",
+    "@types/mocha": "latest",
+    "@typescript-eslint/eslint-plugin": "latest",
+    "@typescript-eslint/parser": "latest",
+    "@types/node": "latest",
+    "ts-node": "latest",
+    "typescript": "latest",
+    "eslint": "latest"
+  },
+  "dependencies": {
+    "chai": "latest",
+    "chai-http": "latest",
+    "mocha": "latest",
+    "fs": "latest"
+  }
+}
