@@ -22,7 +22,7 @@
   <a href="https://github.com/tberey">
     <img src="public/assets/logo.png" alt="Logo" width="200" height="100">
   </a><br><br>
-  <div align="center"><h1>SimpleTxtLogger</h1>A simple and lightweight logging module,<br>by TomCo (Technology & Online Media Company)</div>
+  <div align="center"><h1>SimpleTxtLogger</h1>A simple and lightweight logging module,<br>by TomCo (Technology & Online Media Company)<br><a target="_blank" href="https://www.npmjs.com/package/simple-txt-logger">NPM Link (Published)</a></div>
   <div align="right">
     <br>
     <a href="https://github.com/tberey/simple-txt-logger/blob/master/README.md"><strong>Documentation »</strong></a>
