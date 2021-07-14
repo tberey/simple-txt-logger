@@ -81,4 +81,3 @@ jobs:
         npm install
         npm run build --if-present
         npm run lint --if-present
-        npm run test:exit --if-present

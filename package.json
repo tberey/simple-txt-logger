@@ -13,8 +13,6 @@
     "setup": "npm update && npm install",
     "build": "tsc",
     "start": "node build/SimpleTxtLogger.js",
-    "test:exit": "mocha --exit -r ts-node/register src/tests/*.ts",
-    "test": "env TS_NODE_COMPILER_OPTIONS='{\"module\": \"commonjs\" }' mocha -r ts-node/register 'src/tests/*.ts'",
     "lint": "eslint . --ext .ts"
   },
   "keywords": [],
