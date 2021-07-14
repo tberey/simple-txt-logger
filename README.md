@@ -146,7 +146,7 @@ Below is the refined and confirmed roadmap, that has been planned for completion
 | Version | Date | Changes |
 |:---|:---|:---|
 | 1.0.0 | 2021-07-09 | <ul><li>Initial Commit - Release Day!</li><li>Add inital directory structure and files.</li><li>Add Screenshots directory, and images.</li><li>Create and format README.md</li></ul> |
-| 1.0.1 && 1.0.2 | 2021-07-14 | <ul><li>NPM Package Release Day!</li><li>Update all dependancies.</li><li>Remove old test commands from package.json and codeql.yml.</li><li>Update README.md.</li></ul> |
+| 1.0.1, 1.0.2, 1.0.3 | 2021-07-14 | <ul><li>NPM Package Release Day!</li><li>Update all dependancies.</li><li>Remove old test commands from package.json and codeql.yml.</li><li>Update README.md.</li></ul> |
 
 <br><hr><br>
 
