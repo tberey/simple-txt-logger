@@ -71,7 +71,9 @@ This is a simple and easy to use logging tool, that is also light-weight. It str
 <br>
 
 ### Tech Stack
-* [Typescript](https://www.typescriptlang.org/) - Write in TypeScript (or JS), Compiles down to JavaScript.
+* [TypeScript](https://www.typescriptlang.org/) - Write in TypeScript (or JS), Compiles down to JavaScript.
+* [Nodejs](https://nodejs.org/en/) - Node Runtime Environment.
+* [fs](https://nodejs.org/api/fs.html) - Asynchronous File Sytem methods.
 * [ESLint](https://eslint.org/) - Code Parsing, Styling & Error Checking.
 * [Mocha-Chai](https://mochajs.org/) - Testing with Mocha Framework, using the Chai Library.
 
