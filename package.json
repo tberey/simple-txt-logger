@@ -1,6 +1,6 @@
 {
   "name": "simple-txt-logger",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "simple-txt-logger",
   "homepage": "https://github.com/tberey/simple-txt-logger#readme",
   "repository": {
@@ -9,6 +9,7 @@
   },
   "main": "build/SimpleTxtLogger.js",
   "types": "build/SimpleTxtLogger.d.ts",
+  "files": ["build/*"],
   "scripts": {
     "setup": "npm update && npm install",
     "build": "tsc",
