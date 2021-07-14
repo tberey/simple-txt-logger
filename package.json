@@ -21,8 +21,6 @@
   "author": "Tom Berey (github/tberey)",
   "license": "MIT",
   "devDependencies": {
-    "@types/chai": "latest",
-    "@types/mocha": "latest",
     "@typescript-eslint/eslint-plugin": "latest",
     "@typescript-eslint/parser": "latest",
     "@types/node": "latest",
@@ -31,9 +29,6 @@
     "eslint": "latest"
   },
   "dependencies": {
-    "chai": "latest",
-    "chai-http": "latest",
-    "mocha": "latest",
     "fs": "latest"
   }
 }
