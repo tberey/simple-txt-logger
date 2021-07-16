@@ -75,7 +75,7 @@ This is a simple and easy to use logging tool, that is also light-weight. It str
 * [Nodejs](https://nodejs.org/en/) - Node Runtime Environment.
 * [fs](https://nodejs.org/api/fs.html) - Asynchronous File Sytem methods.
 * [ESLint](https://eslint.org/) - Code Parsing, Styling & Error Checking.
-* [Mocha-Chai](https://mochajs.org/) - Testing with Mocha Framework, using the Chai Library.
+* Tested with [Mocha-Chai](https://mochajs.org/) - Testing with Mocha Framework, using the Chai Library.
 
 <br><hr><br>
 
@@ -148,6 +148,7 @@ Below is the refined and confirmed roadmap, that has been planned for completion
 | 1.0.0 | 2021-07-09 | <ul><li>Initial Commit - Release Day!</li><li>Add inital directory structure and files.</li><li>Add Screenshots directory, and images.</li><li>Create and format README.md</li></ul> |
 | 1.0.1, 1.0.2, 1.0.3 | 2021-07-14 | <ul><li>NPM Package Release Day!</li><li>Update all dependancies.</li><li>Remove old test commands from package.json and codeql.yml.</li><li>Update README.md.</li></ul> |
 | 1.0.4, 1.0.5 | 2021-07-14 | <ul><li>NPM Package Release Day!</li><li>Remove files and folders that are unecessary to npm.</li><li>Update README.md.</li></ul> |
+| 1.0.6 | 2021-07-16 | <ul><li>Update package.json</li><li>Add npm keywords.</li><li>Update README.md.</li></ul> |
 
 <br><hr><br>
 
